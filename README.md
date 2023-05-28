@@ -31,3 +31,5 @@ Functions are used to perform certain actions, and they are important for reusin
 #### Output
 
 ![image](https://github.com/Shubham-Diwadkar/C-Programming/assets/125255910/b48c6e71-103f-49d4-a320-939840e52c6d)
+
+![Thankyou](https://github.com/Shubham-Diwadkar/C-Programming/assets/125255910/8c9d1253-af66-45b1-af25-6e61fabef61a)
