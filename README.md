@@ -11,7 +11,7 @@ C is very fast, compared to other programming languages, like Java and Python.
 
 C is very versatile; it can be used in both applications and technologies.
 
-### TAKINGUS.C File
+### TAKINGUSERINPUTS.C File
 
 This file shows a simple program that takes input from the user and displays it to the user.
 
