@@ -1,4 +1,4 @@
-//Write a program acccept the marks of 5 subjects and declare total and average.
+//Write a program accept the marks of 5 subjects and declare total and average.
 #include<conio.h>
 #include<stdio.h>
 void main()
