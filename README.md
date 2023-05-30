@@ -29,7 +29,9 @@ Functions are used to perform certain actions, and they are important for reusin
 - `getch()` is a function used to hold the output screen for some time until the user passes a key from the keyboard to exit the console screen.
 
 **User-Defined Functions**
+
 [NOTE: Will be updated soon]
+
 ### TAKINGUSERINPUTS.C File
 
 This file shows a simple program that takes input from the user and displays it to the user.
