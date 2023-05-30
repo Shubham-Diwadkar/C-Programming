@@ -1,3 +1,5 @@
+//Write a program to take input from a user.
+
 #include<conio.h>
 #include<stdio.h>
 void main()
