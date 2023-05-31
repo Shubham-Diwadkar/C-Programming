@@ -118,4 +118,8 @@ This file shows a simple program that takes input from the user and displays the
 
 ![image](https://github.com/Shubham-Diwadkar/C-Programming/assets/125255910/990c9413-7e1d-4fcb-97e9-57fe8398a1a9)
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ![Thankyou](https://github.com/Shubham-Diwadkar/C-Programming/assets/125255910/8c9d1253-af66-45b1-af25-6e61fabef61a)
