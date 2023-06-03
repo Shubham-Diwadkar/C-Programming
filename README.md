@@ -118,6 +118,18 @@ This file shows a simple program that takes input from the user and displays the
 
 ![image](https://github.com/Shubham-Diwadkar/C-Programming/assets/125255910/990c9413-7e1d-4fcb-97e9-57fe8398a1a9)
 
+### Greater_of_Two_Integers.C File
+This program compares two integers entered by the user and determines the greater number.
+
+- We define a set of Variables.
+- We accept the values from the user.
+- The program will display the greater number.
+
+#### Output
+
+![image](https://github.com/Shubham-Diwadkar/C-Programming/assets/125255910/d0b6823b-4f42-4f39-b038-9e04ed1dee55)
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
